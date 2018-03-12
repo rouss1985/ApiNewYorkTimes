@@ -1,0 +1,8 @@
+body{
+    background-image: url(../assets/images/fondoHome.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.site-container{
+    text-align: center;
+}
